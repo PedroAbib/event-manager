@@ -1,6 +1,3 @@
 [submodule "event-manager-backend"]
 	path = event-manager-backend
 	url = https://github.com/PedroAbib/event-manager-backend.git
-[submodule "event-manager-frontend"]
-	path = event-manager-frontend
-	url = https://github.com/PedroAbib/event-manager-frontend.git
